@@ -24,6 +24,7 @@
 ### About Me
 ✔ Exploring intersections of **Mathematics, Computation, & Neuroscience** 🧠<br>
 ✔ Passionate about **creating things** and **building things** through the language of mathematics and computational tools 🚀<br>
+✔ Check out my **[website](https://kbian.org/)** <br>
 
 ### 🛠 Language & Tools
 
@@ -49,11 +50,6 @@
       alt="html5"/> 
   </a>
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
@@ -73,8 +69,24 @@
       alt="numpy"/> 
   </a>
 
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff" alt="matplotlib"/>
+  <a href="https://jax.readthedocs.io/" target="_blank"> 
+  <img src="https://img.shields.io/badge/JAX-0055CC.svg?style=for-the-badge&logo=JAX&logoColor=white"
+    alt="JAX"/> 
+  </a>
+  
+  <a href="https://flax.readthedocs.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flax-008080.svg?style=for-the-badge&logo=Flax&logoColor=white"
+      alt="Flax"/> 
+  </a>
+
+  <a href="https://github.com/google/brax" target="_blank"> 
+    <img src="https://img.shields.io/badge/Brax-FF5733.svg?style=for-the-badge&logo=Brax&logoColor=white"
+      alt="Brax"/> 
+  </a>
+
+  <a href="https://github.com/deepmind/dm_control" target="_blank"> 
+    <img src="https://img.shields.io/badge/dmcontrol-6A1B9A.svg?style=for-the-badge&logo=dmcontrol&logoColor=white"
+      alt="dmcontrol"/> 
   </a>
 
   <a href="https://pytorch.org/" target="_blank"> 
@@ -95,11 +107,6 @@
   <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/" target="_blank"> 
     <img src="https://img.shields.io/badge/Beautiful Soup-34b9ab.svg?style=for-the-badge&logo=BeautifulSoup&logoColor=white"
       alt="beautifulsoup"/> 
-  </a>
-
-  <a href="https://seaborn.pydata.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/seaborn-1f77b4.svg?style=for-the-badge&logo=seaborn&logoColor=white"
-      alt="seaborn"/> 
   </a>
 
 
