@@ -9,7 +9,8 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kaiwen (Kevin) Bian</h1>
-<h3 align="center">Undergraduate @ UCSD & Researcher @ Salk Institute for Biological Studies | Data Science & Cognitive Behavioral Neuroscience</h3>
+<h3 align="center">Undergraduate @ UCSD | Researcher @ Salk Institute for Biological Studies</h3>
+<h3 align="center">Data Science | Cognitive Behavioral Neuroscience</h3>
 
 <p align="center">
   <em>
