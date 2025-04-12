@@ -24,7 +24,7 @@
 
 ### About Me
 ✔ Exploring intersections of **Mathematics, Computation, & Neuroscience** 🧠<br>
-✔ Passionate about **creating things** and **building things** through the language of mathematics and computational tools 🚀<br>
+✔ Passionate about **creating things** and **building things** through the language of computational tools and mathematics, particularly through probability, statistics, linear algebra, optimization, and (sometimes) topology 🚀<br>
 ✔ Check out my **[website](https://kbian.org/)** <br>
 
 ### 🛠 Language & Tools
@@ -155,4 +155,4 @@
 
 Credit: [10Kartik](https://github.com/10Kartik) & [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
-Last Edited on: 22/02/2025
+Last Edited on: 12/04/2025
