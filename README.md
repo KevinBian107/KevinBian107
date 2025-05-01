@@ -80,6 +80,16 @@
       alt="Flax"/> 
   </a>
 
+ <a href="https://docs.dask.org/en/stable/" target="_blank"> 
+   <img src="https://img.shields.io/badge/Dask-4B698A.svg?style=for-the-badge&logo=Dask&logoColor=white"
+     alt="Dask"/> 
+ </a>
+
+ <a href="https://spark.apache.org/docs/latest/" target="_blank"> 
+   <img src="https://img.shields.io/badge/Spark-E25A1C.svg?style=for-the-badge&logo=ApacheSpark&logoColor=white"
+     alt="Apache Spark"/> 
+ </a>
+
   <a href="https://github.com/google/brax" target="_blank"> 
     <img src="https://img.shields.io/badge/Brax-FF5733.svg?style=for-the-badge&logo=Brax&logoColor=white"
       alt="Brax"/> 
