@@ -23,7 +23,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### About Me
-✔ Exploring intersections of **Mathematics, Computation, & Neuroscience** 🧠<br>
+✔ Exploring intersections of **Mathematics, Computation, Neuroscience, & Cognition** 🧠<br>
 ✔ Passionate about **creating things** and **building things** through the language of computational tools and mathematics, particularly through probability, statistics, linear algebra, optimization, and computational algebraic topology 🚀<br>
 ✔ Check out my **[website](https://kbian.org/)** <br>
 
