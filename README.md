@@ -1,6 +1,6 @@
-<p align = "center">
+<!-- <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Neuroscience-brightgreen" />
@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Chinese-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kaiwen (Kevin) Bian</h1>
+<h1 align="center">Hi, I am Kaiwen (Kevin) Bian</h1>
 <h3 align="center">Undergraduate @ UCSD | Researcher @ Salk Institute for Biological Studies</h3>
 <h3 align="center">Data Science | Cognitive Behavioral Neuroscience</h3>
 
 <p align="center">
   <em>
-    Hi! I'm passionate about bridging Data Science and Neuroscience through algorithms, machine learning, and mathematics to better understand intelligence—both natural and artificial. I am particularly interested in incorporating biological perspectives (psychology, neuroscience, cognitive science) into engineering to create new computational tools for scientific discovery and problem-solving.
+    I like to think of research as solving interesting puzzles. My research interest mostly focus on solving interesting yet computationally complex problems by looking at them from different perspectives (biological, computational, mathematical), particularly ones related to embodied agents, representation learning, and computational neuroscience.
   </em> 
   <br>
   <b><i align="center">"The tree has been explored and nothing is lost."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -23,8 +23,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### About Me
-✔ Exploring intersections of **Mathematics, Computation, Neuroscience, & Cognition** 🧠<br>
-✔ Passionate about **creating things** and **building things** through the language of computational tools and mathematics, particularly through probability, statistics, linear algebra, optimization, and computational algebraic topology 🚀<br>
+✔ Exploring intersections of **Embodied Agents, Representation Learning, and Computational Neuroscience**<br>
 ✔ Check out my **[website](https://kbian.org/)** <br>
 
 ### 🛠 Language & Tools
@@ -60,15 +59,6 @@
 
 <h4 align="left">Libraries</h4>
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff"
-      alt="pandas"/> 
-  </a>
-
-  <a href="https://numpy.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff"
-      alt="numpy"/> 
-  </a>
 
   <a href="https://jax.readthedocs.io/" target="_blank"> 
   <img src="https://img.shields.io/badge/JAX-0055CC.svg?style=for-the-badge&logo=JAX&logoColor=white"
@@ -77,18 +67,8 @@
   
   <a href="https://flax.readthedocs.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/Flax-008080.svg?style=for-the-badge&logo=Flax&logoColor=white"
-      alt="Flax"/> 
+      alt="flax"/> 
   </a>
-
- <a href="https://docs.dask.org/en/stable/" target="_blank"> 
-   <img src="https://img.shields.io/badge/Dask-4B698A.svg?style=for-the-badge&logo=Dask&logoColor=white"
-     alt="Dask"/> 
- </a>
-
- <a href="https://spark.apache.org/docs/latest/" target="_blank"> 
-   <img src="https://img.shields.io/badge/Spark-E25A1C.svg?style=for-the-badge&logo=ApacheSpark&logoColor=white"
-     alt="Apache Spark"/> 
- </a>
 
   <a href="https://github.com/google/brax" target="_blank"> 
     <img src="https://img.shields.io/badge/Brax-FF5733.svg?style=for-the-badge&logo=Brax&logoColor=white"
@@ -97,7 +77,7 @@
 
   <a href="https://github.com/deepmind/dm_control" target="_blank"> 
     <img src="https://img.shields.io/badge/dmcontrol-6A1B9A.svg?style=for-the-badge&logo=dmcontrol&logoColor=white"
-      alt="dmcontrol"/> 
+      alt="dm-control"/> 
   </a>
 
   <a href="https://pytorch.org/" target="_blank"> 
@@ -109,6 +89,42 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white"
       alt="tensorflow"/> 
   </a>
+
+  <a href="https://pytorch-geometric.readthedocs.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/PyTorch Geometric-004D40.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+      alt="pyg"/> 
+  </a>
+
+  <a href="https://www.gymlibrary.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gym-444444.svg?style=for-the-badge&logo=OpenAI&logoColor=white"
+      alt="gym"/> 
+  </a>
+
+  <a href="https://pytorch.org/rl/" target="_blank"> 
+    <img src="https://img.shields.io/badge/TorchRL-CC0000.svg?style=for-the-badge&logo=PyTorch&logoColor=white"
+      alt="torchrl"/> 
+  </a>
+
+
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff"
+      alt="pandas"/> 
+  </a>
+
+  <a href="https://numpy.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff"
+      alt="numpy"/> 
+  </a>
+
+ <a href="https://docs.dask.org/en/stable/" target="_blank"> 
+   <img src="https://img.shields.io/badge/Dask-4B698A.svg?style=for-the-badge&logo=Dask&logoColor=white"
+     alt="dask"/> 
+ </a>
+
+ <a href="https://spark.apache.org/docs/latest/" target="_blank"> 
+   <img src="https://img.shields.io/badge/Spark-E25A1C.svg?style=for-the-badge&logo=ApacheSpark&logoColor=white"
+     alt="apache spark"/> 
+ </a>
 
   <a href="https://scikit-learn.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Scikit Learn-29ABE2.svg?style=for-the-badge&logo=Scikitlearn&logoColor=white"
@@ -165,4 +181,4 @@
 
 Credit: [10Kartik](https://github.com/10Kartik) & [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
-Last Edited on: 05/01/2025
+Last Edited on: 11/18/2025
