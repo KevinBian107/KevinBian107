@@ -9,12 +9,12 @@
 </p>
 <hr>
 <h1 align="center">Hi, I am Kaiwen (Kevin) Bian</h1>
-<h3 align="center">Undergraduate @ UCSD | Researcher @ Salk Institute for Biological Studies</h3>
+<h3 align="center">Undergraduate @ UCSD | Research Intern @ Salk Institute for Biological Studies</h3>
 <h3 align="center">Data Science | Cognitive Behavioral Neuroscience</h3>
 
 <p align="center">
   <em>
-    I like to think of research as solving interesting puzzles. My research interest mostly focus on solving interesting yet computationally complex problems by looking at them from different perspectives (biological, computational, mathematical), particularly ones related to embodied agents, representation learning, and computational neuroscience.
+    I am a 4th year undergraduate student at UC SanDiego double majoring in Data Science and Cognitive Behavoral Neuroscience. My research interests sit at the intersection of embodied AI, computational neuroscience, and foundation models.
   </em> 
   <br>
   <b><i align="center">"The tree has been explored and nothing is lost."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -23,7 +23,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### About Me
-✔ Exploring intersections of **Embodied Agents, Representation Learning, and Computational Neuroscience**<br>
+✔ Exploring intersections of **Embodied Agents, Foundation Model, and Computational Neuroscience**<br>
 ✔ Check out my **[website](https://kbian.org/)** <br>
 
 ### 🛠 Language & Tools
@@ -167,16 +167,16 @@
 
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinBian107&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="kevin" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=KevinBian107&show_icons=true&locale=en&theme=chartreuse-dark" alt="kevin" width="410" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br> -->
 
 
 ---
 
 Credit: [10Kartik](https://github.com/10Kartik) & [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
 
-Last Edited on: 11/18/2025
+Last Edited on: 6/4/2026
