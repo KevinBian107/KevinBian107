@@ -9,8 +9,8 @@
 </p>
 <hr>
 <h1 align="center">Hi, I am Kaiwen (Kevin) Bian</h1>
-<h3 align="center">Undergraduate @ UCSD | Research Intern @ Salk Institute for Biological Studies</h3>
-<h3 align="center">Data Science | Cognitive Behavioral Neuroscience</h3>
+<h3 align="center">Research Staff @ Stanford University | UC San Diego '26</h3>
+<h3 align="center">World Models | Embodied AI | AI for Science</h3>
 
 <p align="center">
 	<em>
