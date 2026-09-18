@@ -13,9 +13,9 @@
 <h3 align="center">Data Science | Cognitive Behavioral Neuroscience</h3>
 
 <p align="center">
-  <em>
-    I am a 4th year undergraduate student at UC SanDiego double majoring in Data Science and Cognitive Behavoral Neuroscience. My research interests sit at the intersection of embodied AI, computational neuroscience, and foundation models.
-  </em> 
+	<em>
+	I am a research staff at Enigma, Stanford University, and a recent graduate of UC San Diego, where I studied Data Science and Cognitive Behavioral Neuroscience. My recent research focuses on world modeling and AI4Science, with a broader interest in building artificial systems that harness the structure of natural intelligence.
+	</em>
   <br>
   <b><i align="center">"The tree has been explored and nothing is lost."</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
